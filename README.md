@@ -3,5 +3,5 @@ This respository aims to have multiple machine learning techniques implemented f
 
 |      Algorithm      |     Progress    |
 | :-----------------: |:---------------:|
-| Logistic Classifier |    Working on   | 
-| Softmax Classifier  |    Working on   |
+| Logistic Classifier |       Done      | 
+| Softmax Classifier  |       Done      |
