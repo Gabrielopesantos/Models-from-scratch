@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*/__pycache__/*
+*/main_baseline.py/*
+*/main.py/*
