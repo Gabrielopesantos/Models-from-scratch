@@ -1,4 +1,4 @@
-/ipynb_checkpoints
-/__pycache__
-/main_baseline.py
-/main.py
+ipynb_checkpoints/
+__pycache__/
+main_baseline.py
+main.py
